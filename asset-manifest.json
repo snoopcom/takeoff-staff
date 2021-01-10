@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/takeoff-staff/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/takeoff-staff/static/js/main.c5797316.chunk.js",
-    "main.js.map": "/takeoff-staff/static/js/main.c5797316.chunk.js.map",
-    "runtime-main.js": "/takeoff-staff/static/js/runtime-main.ef3d4516.js",
-    "runtime-main.js.map": "/takeoff-staff/static/js/runtime-main.ef3d4516.js.map",
-    "static/js/2.dd9e64ab.chunk.js": "/takeoff-staff/static/js/2.dd9e64ab.chunk.js",
-    "static/js/2.dd9e64ab.chunk.js.map": "/takeoff-staff/static/js/2.dd9e64ab.chunk.js.map",
-    "static/js/3.1c56f2e5.chunk.js": "/takeoff-staff/static/js/3.1c56f2e5.chunk.js",
-    "static/js/3.1c56f2e5.chunk.js.map": "/takeoff-staff/static/js/3.1c56f2e5.chunk.js.map",
+    "main.css": "/takeoff-staff/static/css/main.3db72569.chunk.css",
+    "main.js": "/takeoff-staff/static/js/main.56315a10.chunk.js",
+    "main.js.map": "/takeoff-staff/static/js/main.56315a10.chunk.js.map",
+    "runtime-main.js": "/takeoff-staff/static/js/runtime-main.27e1dbac.js",
+    "runtime-main.js.map": "/takeoff-staff/static/js/runtime-main.27e1dbac.js.map",
+    "static/css/2.cc6972a9.chunk.css": "/takeoff-staff/static/css/2.cc6972a9.chunk.css",
+    "static/js/2.f99095c8.chunk.js": "/takeoff-staff/static/js/2.f99095c8.chunk.js",
+    "static/js/2.f99095c8.chunk.js.map": "/takeoff-staff/static/js/2.f99095c8.chunk.js.map",
     "index.html": "/takeoff-staff/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/takeoff-staff/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.dd9e64ab.chunk.js.LICENSE.txt": "/takeoff-staff/static/js/2.dd9e64ab.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/takeoff-staff/static/media/logo.6ce24c58.svg"
+    "static/css/2.cc6972a9.chunk.css.map": "/takeoff-staff/static/css/2.cc6972a9.chunk.css.map",
+    "static/css/main.3db72569.chunk.css.map": "/takeoff-staff/static/css/main.3db72569.chunk.css.map",
+    "static/js/2.f99095c8.chunk.js.LICENSE.txt": "/takeoff-staff/static/js/2.f99095c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef3d4516.js",
-    "static/js/2.dd9e64ab.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.c5797316.chunk.js"
+    "static/js/runtime-main.27e1dbac.js",
+    "static/css/2.cc6972a9.chunk.css",
+    "static/js/2.f99095c8.chunk.js",
+    "static/css/main.3db72569.chunk.css",
+    "static/js/main.56315a10.chunk.js"
   ]
 }
